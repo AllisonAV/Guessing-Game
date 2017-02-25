@@ -1,0 +1,99 @@
+      body {
+          background-image: url('nbr background.jpg');
+      }
+
+      ul {
+          list-style: none;
+          padding: 0;
+      }
+
+      img {
+          display: inline;
+          width: 200px;
+          height: 100px;
+      }
+
+      h1 {
+        font-size: 50px; 
+      }
+
+      h2 {
+        font-size: 40px;
+      }
+
+      h3 {
+        font-size:  30px;
+        text-shadow: 5px 4px #71F9F9; 
+        border-radius: 10%;
+      }
+
+      button {
+        background-color: #71F9F9;
+      }
+
+      #headers {
+        color:  black;
+      }
+
+      #footer {
+          width: 100%;
+          border-top: solid 2px black;
+          background-color: white;
+          position: fixed;
+          bottom: 0;
+      }
+
+      #player-input{
+        border-radius: 50%;
+        width: 100px;
+        height:100px;
+        border-color: black;
+        outline: none;
+      }
+
+      #submit {
+        border-radius: 50%;
+        width: 50px;
+        height: 50px;
+        position: absolute;
+        top: 50px;
+        left: 100px;
+      }
+
+      #parent-input {
+        width: 160px;
+        margin: 5% auto 50px;
+        position: relative;
+      }
+
+      #app {
+        width: 60%;
+        margin: 50px auto;
+      }
+
+      .center {
+        text-align: center;
+      }
+
+      .text-box {
+        background-color: white;
+        border: 5px solid black ;
+        text-shadow: 5px 4px #71F9F9;
+      }
+
+      .guess {
+        display: inline;
+        border: 5px solid black ;
+        border-radius: 10%;
+        padding: 0 25px;
+        font-size: 25px;
+        background-color: white;
+      }      
+
+
+
+      /*.highlight {
+        background-color: white;
+        border: 5px solid black ;
+        text-shadow: 5px 4px #71F9F9;
+      }*/
